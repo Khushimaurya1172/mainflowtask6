@@ -35,4 +35,4 @@ This repository contains solutions to Task 6 challenges assigned by **Main Flow 
    ```bash
    git clone https://github.com/yourusername/python-task6-mainflow.git
    cd python-task6-mainflow
-python task_39_sudoku_validator.py
+   python task_39_sudoku_validator.py
